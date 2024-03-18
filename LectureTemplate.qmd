@@ -1,0 +1,19 @@
+---
+title: "Title: "
+author: "Mick Morrison"
+editor: visual
+date: "Enter current date"
+date-modified: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S')`"
+format: 
+  revealjs:
+    theme: serif
+    width: 1280 # set to help slides print to PDF at 1 slide to a page
+    height: 720 # as above
+    margin: 0.1 # as above
+    smaller: true
+    auto-stretch: true 
+    embed-resources: true
+    scrollable: false
+slide-level: 3
+#csl: "/Users/mickmorrison/GitRepos/styles/apa.csl" Uncomment this line to format citations as APA7.
+---
