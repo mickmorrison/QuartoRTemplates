@@ -1,6 +1,6 @@
 ---
 title: "Title: "
-author: "Mick Morrison"
+author: "your name"
 editor: visual
 date: "Enter current date"
 date-modified: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S')`"
@@ -14,6 +14,6 @@ format:
     auto-stretch: true 
     embed-resources: true
     scrollable: false
-slide-level: 3
+slide-level: 3 # level at which Headers will trigger a new slide
 #csl: "/Users/mickmorrison/GitRepos/styles/apa.csl" Uncomment this line to format citations as APA7.
 ---
