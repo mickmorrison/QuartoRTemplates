@@ -1,0 +1,12 @@
+---
+title: " "
+author: "Michael Morrison"
+date: " "
+format:
+  html:
+    embed-resources: true
+    toc: true
+    number-sections: true
+theme: "zephyr"
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl" # Replace this URL with "https://raw.githubusercontent.com/citation-style-language/styles/master/university-of-new-england-australia-note.csl" if you wish to use History Footnotes instead.
+---
