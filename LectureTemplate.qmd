@@ -1,19 +1,19 @@
 ---
-title: "Title: "
-author: "your name"
+title: " "
+author: "Dr Mick Morrison"
 editor: visual
-date: "Enter current date"
-date-modified: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S')`"
+date: "20 March 2024"
 format: 
   revealjs:
     theme: serif
-    width: 1280 # set to help slides print to PDF at 1 slide to a page
-    height: 720 # as above
-    margin: 0.1 # as above
+    width: 1280
+    height: 720
+    margin: 0.1
     smaller: true
-    auto-stretch: true 
-    embed-resources: true
+    auto-stretch: true
+    embed-resources: false
     scrollable: false
-slide-level: 3 # level at which Headers will trigger a new slide
-#csl: "/Users/mickmorrison/GitRepos/styles/apa.csl" Uncomment this line to format citations as APA7.
+canononical: true
+slide-level: 2
+csl: "/Users/mickmorrison/GitRepos/styles/apa.csl"
 ---

@@ -1,9 +1,6 @@
-<<<<<<< Local Changes
-||||||| Old File
-dd=======
 ---
 title: " "
-author: "Michael Morrison"
+author: ""
 date: " "
 format:
   html:
@@ -11,6 +8,8 @@ format:
     toc: true
     number-sections: true
 theme: "zephyr"
-csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl" # Replace this URL with "https://raw.githubusercontent.com/citation-style-language/styles/master/university-of-new-england-australia-note.csl" if you wish to use History Footnotes instead.
+canononical: true
+csl: "/Users/mickmorrison/GitRepos/styles/apa.csl"
+
 ---
->>>>>>> External Changes
+
